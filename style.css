@@ -43,8 +43,12 @@ a {
 }
 
 .bg-2 {
-    background-color: #00C9FF; /* Blue */
+    background-color: #00ccff; /* Blue */
     color: #000000; /* Black */
+}
+
+.edgy-black {
+    background-color: #000000;
 }
 
 .card {
@@ -82,5 +86,5 @@ a {
 }
 
 .navbar-nav li a:hover {
-    color: #2e72a1 !important;
+    color: #00ccff !important;
 }
