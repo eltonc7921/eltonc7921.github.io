@@ -35,7 +35,9 @@ a {
 }
 
 .bg-1 {
-    background-image: url('https://media.giphy.com/media/QeSUk379Ozz1e/giphy.gif');
+    background-image: url('https://i.pinimg.com/originals/83/1f/26/831f2696fa16146b6856985bc15d844b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #ffffff; /* White */
     color: #555555;
 }
