@@ -43,8 +43,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #00ccff; /* Blue */
-    color: #000000; /* Black */
+    background-color: #000000; /* White */
+    color: #00ccff; /* Black */
 }
 
 .edgy-black {
@@ -61,8 +61,8 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #151515; /* Dark Gray */
+    color: #00ccff;
 }
 
 .bg-4 {
