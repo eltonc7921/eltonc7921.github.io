@@ -69,6 +69,8 @@ a {
 }
 
 .bg-4 {
+    background-image: url('https://data.whicdn.com/images/145913685/original.gif'); /* falling leaves */
+    background-size: cover;
     background-color: #000000; /* Black */
     color: #fff;
 }
@@ -91,6 +93,3 @@ a {
 .navbar-nav li a:hover {
     color: #00ccff !important;
 }
-
-/*
-background-image: url('https://data.whicdn.com/images/145913685/original.gif'); falling leaves
