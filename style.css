@@ -26,6 +26,10 @@ a {
     filter: invert(1);
 }
 
+#artwork img{
+    height: 500px;
+}
+
 #sep {
     height: 75px;
 }
@@ -36,15 +40,14 @@ a {
 
 .bg-1 {
     background-image: url('https://steamuserimages-a.akamaihd.net/ugc/836957960630326440/A7A5DA84E434D11499AAB35119C25A268D160D0C/');
-    background-repeat: no-repeat;
     background-size: cover;
     background-color: #ffffff; /* White */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #000000; /* White */
-    color: #00ccff; /* Black */
+    background-color: #000000; /* Black */
+    color: #00ccff; /* Blue */
 }
 
 .edgy-black {
@@ -88,3 +91,6 @@ a {
 .navbar-nav li a:hover {
     color: #00ccff !important;
 }
+
+/*
+background-image: url('https://data.whicdn.com/images/145913685/original.gif'); falling leaves
