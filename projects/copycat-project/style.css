@@ -1,0 +1,65 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #00000;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+}
+
+
+#fork img{
+    height: 25px;
+    margin-bottom: 25px;
+    filter: invert(1);
+}
+
+#artwork img{
+    height: 500px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.bg-1 {
+    background-size: cover;
+    background-color: #000000; /* Black */
+    color: #00ccff;
+}
+
+
+.bg-4 {
+    background-image: url('https://data.whicdn.com/images/145913685/original.gif'); /* falling leaves */
+    background-size: cover;
+    background-color: #000000; /* Black */
+    color: #fff;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #00ccff !important;
+}
