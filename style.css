@@ -89,3 +89,7 @@ a {
 .navbar-nav li a:hover {
     color: #00ccff !important;
 }
+
+.nav-bg {
+    background: #000000;
+}
