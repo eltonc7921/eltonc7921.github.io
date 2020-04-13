@@ -1,0 +1,76 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #000000;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+}
+
+
+#fork img{
+    height: 25px;
+    margin-bottom: 25px;
+    filter: invert(1);
+}
+
+#artwork img{
+    height: 500px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.bg-1 {
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/836957960630326440/A7A5DA84E434D11499AAB35119C25A268D160D0C/');
+    background-size: cover;
+    background-color: #000000; /* Black */
+    color: #00ccff;
+}
+
+.bg-4 {
+    background-image: url('https://data.whicdn.com/images/145913685/original.gif'); /* falling leaves */
+    background-size: cover;
+    background-color: #000000; /* Black */
+    color: #fff;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: black !important;
+}
+
+.navbar-nav li a {
+    color: white !important;
+}
+.navbar-nav li a:hover {
+    color: #00ccff !important;
+}
+
+.container {
+    width: 90%;
+    background: rgba(0,0,0,0.85);
+    border-radius: 5px;
+    padding: 40px;
+}
